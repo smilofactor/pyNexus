@@ -1,4 +1,4 @@
-![Build Status](https://github.com/smilofacto/pyNexus/actions/workflows/ci.yml/badge.svg)
+![Build Status](https://github.com/smilofactor/pyNexus/actions/workflows/ci.yml/badge.svg)
 
 # pyNexus 📈
 
