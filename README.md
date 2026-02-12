@@ -1,3 +1,5 @@
+![Build Status](https://github.com/smilofacto/pyNexus/actions/workflows/ci.yml/badge.svg)
+
 # pyNexus 📈
 
 ### **Institutional-Grade Equities Monitor**
